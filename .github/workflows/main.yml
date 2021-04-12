@@ -24,6 +24,6 @@ jobs:
           architecture: ${{ matrix.architecture }}
       - run: npm install
       - run: npm test
-      - uses: ./action-a
-        with:
-          MY_NAME: "Shah Rukh Khan"
+      # - uses: ./action-a
+      #   with:
+      #     MY_NAME: "Shah Rukh Khan"
