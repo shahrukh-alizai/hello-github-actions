@@ -1,0 +1,15 @@
+{
+  "name": "hello-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shahrukh-alizai/hello-github-actions.git",
+  "author": "Shah Rukh Khan <shahrukh.alizai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vuetify": "^2.4.9"
+  },
+  "scripts": {
+    "test": "node --version"
+  }
+}
