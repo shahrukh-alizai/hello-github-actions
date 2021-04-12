@@ -5,7 +5,7 @@ jobs:
   build:
     strategy:
       matrix:
-        node: 
+        node_version: 
           - 14
           - 15
         os:
